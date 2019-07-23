@@ -1,0 +1,4 @@
+name: MinecraftRest
+version: ${project.version}
+main: net.blumbye.minecraftrest.minecraftrest.MinecraftRest
+api-version: 1.14
